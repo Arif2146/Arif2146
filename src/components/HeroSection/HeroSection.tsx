@@ -104,7 +104,7 @@ export const HeroSection = () => {
       >
         <div className="w-64 h-64 rounded-full overflow-hidden shadow-lg">
           <img
-            src="https://692fe0d952213e0bf969ed0d.imgix.net/arif.png"
+            src="https://instagram.frdp4-2.fna.fbcdn.net/v/t51.82787-19/704614437_18082823054634303_8804075631546183041_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frdp4-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gEOJzSDlrmdBUbAL-GC0cl6r5rqPmnNkp9NqyAe6Z6fCmgVDmwrw3ushNi3s5GQyc1eRQ-pfp2ymy9Ug1DLs9J-&_nc_ohc=_O7n1hL8CCcQ7kNvwGXhz0l&_nc_gid=B1Yc2UEnkkCGnSlX72-NOg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af-yad4vgpzmw2sx89xGgJCyxwKfkV_MypmH4pTasypwog&oe=6A2BDC07&_nc_sid=7a9f4b"
             alt="Arif Bepari"
             className="w-full h-full object-cover"
           />
